@@ -1,2 +1,2 @@
 # hellowhale
-hellowhale test
+Simple Docker Demo App
